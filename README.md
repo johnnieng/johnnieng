@@ -37,16 +37,9 @@ Welcome to my GitHub profile! I'm passionate about building efficient, scalable 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnieng&layout=compact&theme=radical)
 
-## 🌟 Featured Projects
-
-- [Project 1](https://github.com/johnnieng/project1) - Brief description of this project
-- [Project 2](https://github.com/johnnieng/project2) - Brief description of this project
-- [Project 3](https://github.com/johnnieng/project3) - Brief description of this project
-
 ## 🎓 Education
 
-- Degree in Computer Science or related field (Update with your specific education details from LinkedIn)
-
+- Degree in Computer Science 
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnnie-ng/)
